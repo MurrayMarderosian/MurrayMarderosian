@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MurrayMarderosian</h1>
 <h3 align="center">I am an AI Engineer and Machine Learning expert who specializes in solving real-world problems for a diverse range of clients.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murraymerderosian&label=Profile%20views&color=0e75b6&style=flat" alt="murraymerderosian" /> </p>
+<img align="right" width="400" src="https://img.freepik.com/free-vector/robotic-artificial-intelligence-technology-smart-lerning-from-bigdata_1150-48136.jpg?size=626&ext=jpg&ga=GA1.2.693221761.1696492261&semt=sph" alt="murraymerderosian" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murraymerderosian" alt="murraymerderosian" /></a> </p>
 
